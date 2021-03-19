@@ -18,8 +18,6 @@
     <br>
     <br>
     <br>
-    <br>
-    <br>
     <p>
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img align="left"
