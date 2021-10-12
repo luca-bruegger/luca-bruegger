@@ -1,7 +1,7 @@
 # Hi there, I am Luca 👋
 :page_with_curl: Currently looking into:
 
-- Python 3
+- Ruby on Rails
 - Tensorflow
 - Swift
 
