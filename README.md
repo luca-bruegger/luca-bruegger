@@ -3,7 +3,7 @@
 
 - Ruby on Rails
 - Tensorflow
-- Swift
+- SwiftUI
 
 :star: Some of my recent projects:
 
