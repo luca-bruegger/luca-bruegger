@@ -8,7 +8,7 @@
 :star: Some of my recent projects:
 
 - gradebooklet Mobile App for [Android](https://play.google.com/store/apps/details?id=ch.lucabruegger.gradebooklet&hl=de_CH&gl=US) & [iOS](https://apps.apple.com/ch/app/gradebooklet/id1519216147)
-- [gradebooklet-web](https://gradebooklet.com/) Website
+- [gradebooklet-web](https://gradebooklet-app.com/) Website
 - [my-portfolio](https://lucabruegger.ch/) Website
 <details open>
     <summary>🧮 My Stats</summary>
