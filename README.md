@@ -14,7 +14,7 @@
     <summary>🧮 My Stats</summary>
     <br>
 <p>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <a href="https://lucabruegger.ch">
         <img align="left"
             src="https://github-readme-stats.vercel.app/api?username=luca-bruegger&include_all_commits&hide=stars&count_private=true&show_icons=true&line_height=28&include_all_commits&custom_title=My Github Stats 🚧"/>
     </a>
@@ -28,7 +28,7 @@
     <br>
     <br>
     <p>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <a href="https://lucabruegger.ch">
         <img align="left"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=luca-bruegger&hide_total_stars=true&layout=compact&langs_count=10&custom_title=Top Language Stats 📚" />
     </a>
