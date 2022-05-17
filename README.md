@@ -30,7 +30,7 @@
     <p>
     <a href="https://lucabruegger.ch">
         <img align="left"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=luca-bruegger&hide_total_stars=true&layout=compact&langs_count=10&custom_title=Top Language Stats 📚" />
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=luca-bruegger&hide_total_stars=true&layout=compact&langs_count=12&custom_title=Top Language Stats 📚" />
     </a>
     </p>
 </details>
